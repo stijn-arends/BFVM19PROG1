@@ -1,0 +1,87 @@
+{
+    "max_score": 5.9047804,
+    "took": 47,
+    "total": 288,
+    "hits": [
+       {
+            "_id": "8660",
+            "_score": 5.9047804,
+            "entrezgene": "8660",
+            "name": "insulin receptor substrate 2",
+            "symbol": "IRS2",
+            "taxid": 9606
+        },
+       {
+            "_id": "3667",
+            "_score": 5.812647,
+            "entrezgene": "3667",
+            "name": "insulin receptor substrate 1",
+            "symbol": "IRS1",
+            "taxid": 9606
+        },
+       {
+            "_id": "3643",
+            "_score": 5.759741,
+            "entrezgene": "3643",
+            "name": "insulin receptor",
+            "symbol": "INSR",
+            "taxid": 9606
+        },
+       {
+            "_id": "10580",
+            "_score": 5.6254673,
+            "entrezgene": "10580",
+            "name": "sorbin and SH3 domain containing 1",
+            "symbol": "SORBS1",
+            "taxid": 9606
+        },
+       {
+            "_id": "8471",
+            "_score": 5.5908923,
+            "entrezgene": "8471",
+            "name": "insulin receptor substrate 4",
+            "symbol": "IRS4",
+            "taxid": 9606
+        },
+       {
+            "_id": "60676",
+            "_score": 5.443571,
+            "entrezgene": "60676",
+            "name": "pappalysin 2",
+            "symbol": "PAPPA2",
+            "taxid": 9606
+        },
+       {
+            "_id": "3630",
+            "_score": 5.4403577,
+            "entrezgene": "3630",
+            "name": "insulin",
+            "symbol": "INS",
+            "taxid": 9606
+        },
+       {
+            "_id": "6517",
+            "_score": 5.3434577,
+            "entrezgene": "6517",
+            "name": "solute carrier family 2 member 4",
+            "symbol": "SLC2A4",
+            "taxid": 9606
+        },
+       {
+            "_id": "10000",
+            "_score": 5.3161077,
+            "entrezgene": "10000",
+            "name": "AKT serine/threonine kinase 3",
+            "symbol": "AKT3",
+            "taxid": 9606
+        },
+       {
+            "_id": "3651",
+            "_score": 5.288981,
+            "entrezgene": "3651",
+            "name": "pancreatic and duodenal homeobox 1",
+            "symbol": "PDX1",
+            "taxid": 9606
+        }
+    ]
+}
